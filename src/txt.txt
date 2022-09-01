@@ -1,0 +1,37 @@
+/////////
+const pureArr = [
+  {
+    id: 1,
+    name: "A",
+  },
+  {
+    id: 2,
+    name: "B",
+  },
+  {
+    id: 3,
+    name: "C",
+  },
+  {
+    id: 4,
+    name: "D",
+  },
+];
+const matchArr = [
+  {
+    id: 5,
+    name: "E",
+  },
+  {
+    id: 1,
+    name: "F",
+  },
+  {
+    id: 7,
+    name: "G",
+  },
+  {
+    id: 3,
+    name: "H",
+  },
+];
