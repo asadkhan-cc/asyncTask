@@ -71,7 +71,7 @@ const Profile = () => {
           />
         </div>
         <ArrowLeftOutlined 
-        className="absolute top-0 translate-x-[10px] translate-y-[10px] "
+        className="absolute top-0 translate-x-[10px] translate-y-[10px] text-xl"
         onClick={redirectDashboard}/>
         <div className="ml-4  mt-[60px]">
           <h1 className="font-medium text-xl text-slate-800 py-2">
